@@ -19,4 +19,5 @@ Project is created with:
 As parameters, we set the number of cells, the time with which the simulation is to be displayed, and the parameters defining the life of a single cell. To run the application, just run Project1.exe from the Cell Simulation file.
 A few screenshots of the program's operation.
 
-![alt Setting the parameters and the screen after generating the cells][Przechwytywanie1](https://user-images.githubusercontent.com/83333798/193419642-d843f863-5766-4dee-bde7-f5cb05ef5614.PNG)
+Setting the parameters and the screen after generating the cells
+![Przechwytywanie1](https://user-images.githubusercontent.com/83333798/193419642-d843f863-5766-4dee-bde7-f5cb05ef5614.PNG)
