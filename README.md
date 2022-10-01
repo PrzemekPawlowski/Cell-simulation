@@ -4,7 +4,7 @@ Application to conduct a cell simulation
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [About the application](#about the application)
+* [About the application](#about-the-application)
 
 ## General info
 Cell simulation. The program was created using the C ++ language and the Builder C ++ environment.
